@@ -24,7 +24,7 @@ A Deep Learning-based web application that identifies diseases in corn leaves us
 2. **Create a Virtual Environment:**
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   venv\Scripts\activate
    ```
 
 3. **Install Dependencies:**
