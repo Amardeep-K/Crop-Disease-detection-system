@@ -16,21 +16,21 @@ A Deep Learning-based web application that identifies diseases in corn leaves us
 ## 📦 Installation & Setup
 
 1. **Clone the Repository:**
-   \`\`\`bash
+   ```bash
    git clone https://github.com/Amardeep-K/Crop-Disease-detection-system.git
    cd Crop-Disease-detection-system
-   \`\`\`
+   ```
 
 2. **Create a Virtual Environment:**
-   \`\`\`bash
+   ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
-   \`\`\`
+   ```
 
 3. **Install Dependencies:**
-   \`\`\`bash
+   ```bash
    pip install -r requirements.txt
-   \`\`\`
+   ```
 
 4. **Run the Application:**
    ```bash
@@ -38,11 +38,11 @@ A Deep Learning-based web application that identifies diseases in corn leaves us
    ```
 
 ## 📂 Project Structure
-\`\`\`text
+```text
 ├── app.py              # Flask Application logic
-├── model.pth           # Trained PyTorch Model (via Git LFS)
+├── model.pth           # Trained PyTorch Model 
 ├── static/             # CSS, JS, and Images
 ├── templates/          # HTML Templates
 └── requirements.txt    # Project Dependencies
-\`\`\`
+```
 
