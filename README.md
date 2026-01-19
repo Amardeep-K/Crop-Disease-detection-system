@@ -33,9 +33,9 @@ A Deep Learning-based web application that identifies diseases in corn leaves us
    \`\`\`
 
 4. **Run the Application:**
-   \`\`\`bash
+   ```bash
    python app.py
-   \`\`\`
+   ```
 
 ## 📂 Project Structure
 \`\`\`text
